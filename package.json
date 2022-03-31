@@ -1,0 +1,14 @@
+{
+    "name": "com.scheduler.fizz6",
+    "version": "1.0.0",
+    "displayName": "Scheduler",
+    "description": "Defines a Scheduler that can be used to help manage code execution timing.",
+    "unity": "2020.3",
+    "unityRelease": "30f1",
+    "dependencies": {},
+    "keywords": [],
+    "author": {
+        "name": "Jake Chrumka",
+        "email": "chrumka.mj@gmail.com"
+    }
+}
