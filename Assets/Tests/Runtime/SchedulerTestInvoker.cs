@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace Fizz6.Scheduler.Tests
 {
-    public class SchedulerTest : MonoBehaviour
+    public class SchedulerTestInvoker : MonoBehaviour
     {
         private async void Awake()
         {
