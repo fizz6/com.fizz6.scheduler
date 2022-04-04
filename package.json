@@ -5,7 +5,9 @@
     "description": "Defines a Scheduler that can be used to help manage code execution timing.",
     "unity": "2020.3",
     "unityRelease": "30f1",
-    "dependencies": {},
+    "dependencies": {
+        "com.fizz6.core": "1.0.4"
+    },
     "keywords": [],
     "author": {
         "name": "Fizz6",
